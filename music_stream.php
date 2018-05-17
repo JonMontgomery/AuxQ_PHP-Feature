@@ -1,4 +1,4 @@
-// Referenced & Modified Team code for playback of music library on web
+// Modified Team code for playback of music library on web
 
 $FORMAT_M3U = "m3u";
 
